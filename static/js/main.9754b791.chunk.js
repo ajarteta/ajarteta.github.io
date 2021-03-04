@@ -1,0 +1,2 @@
+(this.webpackJsonpwebneurogency=this.webpackJsonpwebneurogency||[]).push([[0],{11:function(e,n,c){"use strict";c.r(n);c(1);var r=c(3),t=c.n(r),s=(c(8),c(9),c(0));var o=function(){return Object(s.jsx)("div",{className:"App",children:Object(s.jsx)("header",{className:"App-header",children:Object(s.jsx)("p",{children:"Neurogency"})})})};t.a.render(Object(s.jsx)(o,{}),document.getElementById("root"))},8:function(e,n,c){},9:function(e,n,c){}},[[11,1,2]]]);
+//# sourceMappingURL=main.9754b791.chunk.js.map
